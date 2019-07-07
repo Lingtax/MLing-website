@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Rinehart on Academic</title>
+    <link>/authors/n-rinehart/</link>
+    <description>Recent content in N Rinehart on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1100</lastBuildDate>
+    
+	    <atom:link href="/authors/n-rinehart/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Systematic review of meditation-based interventions for children with ADHD</title>
+      <link>/publication/review-adhd-mindfulness/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      
+      <guid>/publication/review-adhd-mindfulness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

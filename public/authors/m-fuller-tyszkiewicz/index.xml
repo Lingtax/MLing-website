@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Fuller-Tyszkiewicz on Academic</title>
+    <link>/authors/m-fuller-tyszkiewicz/</link>
+    <description>Recent content in M Fuller-Tyszkiewicz on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 03 Jul 2017 00:00:00 +1000</lastBuildDate>
+    
+	    <atom:link href="/authors/m-fuller-tyszkiewicz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Regression tree analysis of ecological momentary assessment data</title>
+      <link>/publication/regtrees/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/publication/regtrees/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

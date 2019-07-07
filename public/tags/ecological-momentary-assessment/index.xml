@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ecological-momentary-assessment on Academic</title>
+    <link>/tags/ecological-momentary-assessment/</link>
+    <description>Recent content in ecological-momentary-assessment on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +1000</lastBuildDate>
+    
+	    <atom:link href="/tags/ecological-momentary-assessment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ecological Sampling Methodologies</title>
+      <link>/project/esm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/project/esm/</guid>
+      <description>&lt;p&gt;While many questions within psychological research involve the variation in behaviour within individuals between contexts, many traditional designs are insensitive to these phenomena. This stream of research examines behaviours in ecological contexts through the use of high frequency repeated measures designs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Need for Cogniton</title>
+      <link>/project/nfc/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/project/nfc/</guid>
+      <description>&lt;p&gt;This research project (PhD) sought to understand the nature of individual differences in Need for Cognition. In pursuit of this aim, this project had a psychometric emphasis, involving factor analysis, scale validation, and Ecological Momentary Assessment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

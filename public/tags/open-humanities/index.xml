@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open-humanities on Academic</title>
+    <link>/tags/open-humanities/</link>
+    <description>Recent content in open-humanities on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +1000</lastBuildDate>
+    
+	    <atom:link href="/tags/open-humanities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Research Practices</title>
+      <link>/project/openresearch/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/project/openresearch/</guid>
+      <description>&lt;p&gt;Open and reproducible research practices are those that make more of both the process and products of research available to the broader community. These include the sharing of materials, data, and analytic code, the open access publication of research manuscripts, the use of open source tools, and the open documentation of decision-making in the research process (e.g.  open notebooks or preregistration). The engagement with these practices can maximise the benefits of work already conducted, minimise research waste, increase the trustworthiness of research, and improve the collegiality of the research environment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

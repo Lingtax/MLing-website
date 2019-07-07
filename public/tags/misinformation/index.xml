@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>misinformation on Academic</title>
+    <link>/tags/misinformation/</link>
+    <description>Recent content in misinformation on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +1000</lastBuildDate>
+    
+	    <atom:link href="/tags/misinformation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Susceptibility to Misinformation</title>
+      <link>/project/misinformationroots/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/project/misinformationroots/</guid>
+      <description>&lt;p&gt;While misinformation affects society broadly, its impacts are not homogenously distributed, with some individuals being more susceptible to its effects. This program of research aims to identify the factors that make an individual susceptible or resistant to misinformation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Academic</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/tags/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecological-momentary-assessment</title>
+      <link>/tags/ecological-momentary-assessment/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/ecological-momentary-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecological-sampling-methodology</title>
+      <link>/tags/ecological-sampling-methodology/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/ecological-sampling-methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>individual-differences</title>
+      <link>/tags/individual-differences/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/individual-differences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misinformation</title>
+      <link>/tags/misinformation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/misinformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>need-for-cognition</title>
+      <link>/tags/need-for-cognition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/need-for-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-humanities</title>
+      <link>/tags/open-humanities/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/open-humanities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-research</title>
+      <link>/tags/open-research/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/open-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-science</title>
+      <link>/tags/open-science/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psychometrics</title>
+      <link>/tags/psychometrics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/psychometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
