@@ -40,8 +40,8 @@ tags:
 featured: false
 
 links:
-- name: "Publisher's Link""
-   url: "https://www.sciencedirect.com/science/article/pii/S0277953619303247?via%3Dihub"
+# - name: Publisher's Link
+#    url: https://www.sciencedirect.com/science/article/pii/S0277953619303247?via%3Dihub
 url_pdf: https://psyarxiv.com/5wkq4/download
 url_code: 'https://github.com/Lingtax/PMT-flu-2018'
 url_dataset: 'https://github.com/Lingtax/PMT-flu-2018/tree/master/data'

@@ -22,6 +22,24 @@
     </item>
     
     <item>
+      <title>Vaccination</title>
+      <link>/tags/vaccination/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vaccination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misinformation</title>
+      <link>/tags/misinformation/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/misinformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>psychometrics</title>
       <link>/tags/psychometrics/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -54,15 +72,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
       
       <guid>/tags/individual-differences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>misinformation</title>
-      <link>/tags/misinformation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
-      
-      <guid>/tags/misinformation/</guid>
       <description></description>
     </item>
     
@@ -112,11 +121,20 @@
     </item>
     
     <item>
-      <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>ema</title>
+      <link>/tags/ema/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/source-themes/</guid>
+      <guid>/tags/ema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nfc</title>
+      <link>/tags/nfc/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nfc/</guid>
       <description></description>
     </item>
     

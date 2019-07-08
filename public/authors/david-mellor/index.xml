@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Mellor on Academic</title>
+    <link>/authors/david-mellor/</link>
+    <description>Recent content in David Mellor on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 07 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/david-mellor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Schizotypal Personality Questionnaire-Brief lacks measurement invariance across three countries</title>
+      <link>/publication/liu_etal_2017/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/liu_etal_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The use of the SDQ with Chinese adolescents in the clinical context</title>
+      <link>/publication/mellor_etal_2016/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mellor_etal_2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

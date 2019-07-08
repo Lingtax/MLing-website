@@ -34,8 +34,8 @@ tags:
 featured: false
 
 links:
-- name: "Publisher's Link""
-   url: "https://link.springer.com/article/10.1007/s00787-017-1008-9"
+# - name: Publisher's Link
+#    url: https://link.springer.com/article/10.1007/s00787-017-1008-9
 url_pdf: 
 url_code: ''
 url_dataset: ''

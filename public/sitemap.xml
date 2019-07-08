@@ -19,18 +19,8 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -42,6 +32,12 @@
   <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -63,7 +59,37 @@
   </url>
   
   <url>
+    <loc>/authors/barbara-mullan/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/briony-hill/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/david-austin/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/edward-clarke/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/emily-kothe/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/emma-sciberras/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -72,6 +98,17 @@
     <loc>/authors/george-loram/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/nicole-rinehart/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/ling_etal_2019/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -86,14 +123,37 @@
   </url>
   
   <url>
+    <loc>/authors/subhadra-evans/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/evans_etal_2018/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/tags/vaccination/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/loram_etal/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/misinformation/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -109,12 +169,6 @@
   </url>
   
   <url>
-    <loc>/authors/emily-kothe/</loc>
-    <lastmod>2019-02-26T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/madelon-north/</loc>
     <lastmod>2019-02-26T00:00:00+11:00</lastmod>
     <priority>0</priority>
@@ -124,6 +178,11 @@
     <loc>/authors/mathew-ling/</loc>
     <lastmod>2019-02-26T00:00:00+11:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-02-26T00:00:00+11:00</lastmod>
   </url>
   
   <url>
@@ -143,102 +202,13 @@
   </url>
   
   <url>
+    <loc>/talk/hdr-hessa_2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/b-hill/</loc>
-    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/d-austin/</loc>
-    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/e-sciberras/</loc>
-    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/m-ling/</loc>
-    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/n-rinehart/</loc>
-    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/s-evans/</loc>
-    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/review-adhd-mindfulness/</loc>
-    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/d-mellor/</loc>
-    <lastmod>2017-12-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/ev-vinet/</loc>
-    <lastmod>2017-12-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/jl-saiz/</loc>
-    <lastmod>2017-12-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/lk-byrne/</loc>
-    <lastmod>2017-12-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/s-liu/</loc>
-    <lastmod>2017-12-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/s-renati/</loc>
-    <lastmod>2017-12-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/spq_b_3countries/</loc>
-    <lastmod>2017-12-01T00:00:00+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/x-xu/</loc>
-    <lastmod>2017-12-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -299,67 +269,49 @@
   </url>
   
   <url>
-    <loc>/authors/f-zhang/</loc>
-    <lastmod>2016-12-30T00:00:00+11:00</lastmod>
+    <loc>/authors/david-mellor/</loc>
+    <lastmod>2017-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/j-fan/</loc>
-    <lastmod>2016-12-30T00:00:00+11:00</lastmod>
+    <loc>/authors/eugenia-vinet/</loc>
+    <lastmod>2017-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/j-sun/</loc>
-    <lastmod>2016-12-30T00:00:00+11:00</lastmod>
+    <loc>/authors/jose-l-saiz/</loc>
+    <lastmod>2017-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/l-byrne/</loc>
-    <lastmod>2016-12-30T00:00:00+11:00</lastmod>
+    <loc>/authors/linda-byrne/</loc>
+    <lastmod>2017-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/m-mccabe/</loc>
-    <lastmod>2016-12-30T00:00:00+11:00</lastmod>
+    <loc>/authors/shujuan-liu/</loc>
+    <lastmod>2017-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/m-you/</loc>
-    <lastmod>2016-12-30T00:00:00+11:00</lastmod>
+    <loc>/authors/solomon-renati/</loc>
+    <lastmod>2017-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/sdq_chineseadolescents/</loc>
-    <lastmod>2016-12-30T00:00:00+11:00</lastmod>
+    <loc>/publication/liu_etal_2017/</loc>
+    <lastmod>2017-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/w-cheng/</loc>
-    <lastmod>2016-12-30T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/y-liu/</loc>
-    <lastmod>2016-12-30T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/y-xu/</loc>
-    <lastmod>2016-12-30T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/z-zhao/</loc>
-    <lastmod>2016-12-30T00:00:00+11:00</lastmod>
+    <loc>/authors/xiaoyan-xu/</loc>
+    <lastmod>2017-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -408,12 +360,6 @@
   </url>
   
   <url>
-    <loc>/tags/misinformation/</loc>
-    <lastmod>2016-04-27T00:00:00+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/need-for-cognition/</loc>
     <lastmod>2016-04-27T00:00:00+10:00</lastmod>
     <priority>0</priority>
@@ -444,7 +390,7 @@
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
+    <loc>/post/secure-your-own-mask/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -454,19 +400,84 @@
   </url>
   
   <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>/publication_types/7/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>/authors/fang-zhang/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jinhua-sun/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/juan-fan/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/marita-mccabe/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/ling_2016/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/meina-you/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/mellor_etal_2016/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/wenhong-cheng/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/yi-liu/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/yifeng-xu/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/zhimin-zhao/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ema/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nfc/</loc>
+    <lastmod>2016-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

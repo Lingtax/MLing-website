@@ -7,26 +7,26 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1100</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Systematic review of meditation-based interventions for children with ADHD</title>
-      <link>/publication/review-adhd-mindfulness/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <title>Predicting intention to receive a seasonal influenza vaccination using Protection Motivation Theory</title>
+      <link>/publication/ling_etal_2019/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/review-adhd-mindfulness/</guid>
+      <guid>/publication/ling_etal_2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Schizotypal Personality Questionnaire-Brief lacks measurement invariance across three countries</title>
-      <link>/publication/spq_b_3countries/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +1100</pubDate>
+      <title>Systematic review of meditation-based interventions for children with ADHD</title>
+      <link>/publication/evans_etal_2018/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/spq_b_3countries/</guid>
+      <guid>/publication/evans_etal_2018/</guid>
       <description></description>
     </item>
     
@@ -58,34 +58,21 @@
     </item>
     
     <item>
-      <title>The use of the SDQ with Chinese adolescents in the clinical context</title>
-      <link>/publication/sdq_chineseadolescents/</link>
-      <pubDate>Fri, 30 Dec 2016 00:00:00 +1100</pubDate>
+      <title>The Schizotypal Personality Questionnaire-Brief lacks measurement invariance across three countries</title>
+      <link>/publication/liu_etal_2017/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/sdq_chineseadolescents/</guid>
+      <guid>/publication/liu_etal_2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>The use of the SDQ with Chinese adolescents in the clinical context</title>
+      <link>/publication/mellor_etal_2016/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>/publication/mellor_etal_2016/</guid>
+      <description></description>
     </item>
     
   </channel>
