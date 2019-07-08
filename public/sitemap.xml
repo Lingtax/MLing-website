@@ -86,12 +86,6 @@
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -100,6 +94,12 @@
   <url>
     <loc>/publication/loram_etal/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/psychometrics/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -299,59 +299,6 @@
   </url>
   
   <url>
-    <loc>/authors/adina-lang/</loc>
-    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/briony-hill/</loc>
-    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/cate-bailey/</loc>
-    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/emily-j-kothe/</loc>
-    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/helena-teede/</loc>
-    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/lisa-j-moran/</loc>
-    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/meaghan-danby/</loc>
-    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/talk/2018-icbm-mapping/</loc>
-    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sinead-currie/</loc>
-    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/f-zhang/</loc>
     <lastmod>2016-12-30T00:00:00+11:00</lastmod>
     <priority>0</priority>
@@ -491,12 +438,6 @@
   </url>
   
   <url>
-    <loc>/tags/psychometrics/</loc>
-    <lastmod>2016-04-27T00:00:00+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -519,6 +460,12 @@
   
   <url>
     <loc>/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
