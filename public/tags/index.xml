@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,34 @@
     <item>
       <title></title>
       <link>/tags/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>open-science</title>
+      <link>/tags/open-science/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-research</title>
+      <link>/tags/open-research/</link>
+      <pubDate>Tue, 11 Jun 2019 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/open-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vaccination</title>
       <link>/tags/vaccination/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/vaccination/</guid>
       <description></description>
@@ -33,7 +51,7 @@
     <item>
       <title>misinformation</title>
       <link>/tags/misinformation/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/misinformation/</guid>
       <description></description>
@@ -67,6 +85,15 @@
     </item>
     
     <item>
+      <title>esm</title>
+      <link>/tags/esm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/esm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>individual-differences</title>
       <link>/tags/individual-differences/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
@@ -90,33 +117,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
       
       <guid>/tags/open-humanities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open-research</title>
-      <link>/tags/open-research/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
-      
-      <guid>/tags/open-research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open-science</title>
-      <link>/tags/open-science/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
-      
-      <guid>/tags/open-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     

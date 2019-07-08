@@ -13,7 +13,7 @@ image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ecological-momentary-assessment", "ecological-sampling-methodology", "individual-differences"]
+tags = ["ecological-momentary-assessment", "ecological-sampling-methodology", "esm", "individual-differences"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

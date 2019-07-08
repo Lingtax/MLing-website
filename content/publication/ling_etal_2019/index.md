@@ -4,8 +4,8 @@ authors:
 - admin
 - Emily Kothe
 - Barbara Mullan
-date: "2019-04-07T00:00:00Z"
-doi: ""
+date: "2019-06-06T00:00:00Z"
+doi: "https://doi.org/10.1016/j.socscimed.2019.06.002"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -20,24 +20,28 @@ publication_types: ["2"]
 publication: "Social Science & Medicine"
 publication_short: ""
 
-abstract: "Ad hoc measurement of Climate change denial limits interpretability and integration of
-research. This study aims to create a standardised measure of climate change denial using
-Item Response Theory (IRT). A pool of candidate items was administered to a U.S. sample
-recruited using Amazon MTurk (N = 206) along with measures of authoritarianism, social
-dominance orientation, mistrust in scientists, and conspiracist beliefs. After screening out
-poorly discriminating and redundant items, the scale contained eight items with high
-discrimination indices and item difficulties ranged from 0.437 to 1.167. Internal consistency
-was high, ω = .94. Moderate to strong correlations were found between the denial measure
-and the convergent measures. The limited range of item difficulties suggests that different
-forms of climate change denial may be closer together than previously thought."
+abstract: "RATIONALE:
+Seasonal influenza vaccination rates are below the recommended targets, contributing to significant preventable harms. Protection Motivation Theory (PMT), a widely applied model of motivation to respond to threats, may provide some insights into strategies to increase the rate of vaccine uptake. Yet, previous research has omitted some of the proposed predictors of intention when applying this model to vaccination.
+
+OBJECTIVE:
+The aim of the study is to assess the utility of the PMT in predicting intention to obtain the seasonal influenza vaccine. This study will be the first to examine the role of all six PMT constructs in predicting intention to receive the seasonal influenza vaccine.
+
+METHOD:
+A cross-sectional study of 547 US residents was conducted using Amazon MTurk.
+
+RESULTS:
+All constructs show significant bivariate correlations in the direction expected from the prior literature. Further examination of the theory within a linear regression model, however, found that perceived costs of vaccinating (i.e., response costs) did not uniquely account for variance in intention. All other components, perceived severity of and susceptibility to influenza, the perceived benefits of not vaccinating (i.e., maladaptive response rewards), the self-efficacy to vaccinate, and the perceived efficacy of vaccinating in preventing influenza (i.e., response efficacy) were unique predictors of intention. Overall, the PMT accounted for 62% of the variance in intention to vaccinate.
+
+CONCLUSIONS:
+The study is the first to investigate influenza vaccination using all six theorised predictors of intention from the PMT. The findings highlight the importance of the simultaneous inclusion of all components of the model in assessing their potential utility as targets for intervention. Importantly, the results identify under-utilised constructs in the promotion of vaccine uptake, such as maladaptive response rewards, which should be considered targets for future intervention."
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Misinformation
+- misinformation
 - Vaccination
-featured: false
+featured: true
 
 links:
 # - name: Publisher's Link
@@ -45,11 +49,11 @@ links:
 url_pdf: https://psyarxiv.com/5wkq4/download
 url_code: 'https://github.com/Lingtax/PMT-flu-2018'
 url_dataset: 'https://github.com/Lingtax/PMT-flu-2018/tree/master/data'
-url_poster: '#'
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

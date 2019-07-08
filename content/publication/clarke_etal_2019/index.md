@@ -28,7 +28,7 @@ abstract: "Research consistently shows that right‐wing ideological adherents a
 summary: 
 
 tags:
-- 
+- misinformation
 featured: false
 
 # links:
