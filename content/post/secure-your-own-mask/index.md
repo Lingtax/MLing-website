@@ -60,7 +60,7 @@ In case you want the short version without the gratious analogy, here it is.
 
 **It doesn't matter how we got here**, just how we get out of here, and prevent being here again. 
 
-**There are no saviours.** Anyone making themselves out to be a savour should be treated with the same level of kind caution as you would provide to someone claiming to be the messiah in the local hardware stroe.
+**There are no saviours.** Anyone making themselves out to be a saviour should be treated with the same level of kind caution as you would provide to someone claiming to be the messiah in the local hardware store.
 
 **Editors, Publishers, and Funders need to solve this**, because it's their goddamn jobs. We have publication bias because of them; If funders prioritised reproducibility, we wouldn't live in this timeline. If they broke it, they should fix it.   
 
