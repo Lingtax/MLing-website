@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,110 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Mathew Ling is a Lecturer in Psychology, co-founder of the Misinformation lab, and Chairperson of the Melbourne Open Research Network steering committee. His work is principally focussed on understanding susceptibility to misinformation in the health domain, and strategies to remedy it. He also acts as a consultant in research methods and analytics, and is a self-avowed evangelist for Open sciences and the R programming language.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Bianca Klettke</title>
+      <link>/authors/bianca-klettke/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bianca-klettke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominika Howard</title>
+      <link>/authors/dominika-howard/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dominika-howard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erin Hughes</title>
+      <link>/authors/erin-hughes/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/erin-hughes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabel Krug</title>
+      <link>/authors/isabel-krug/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/isabel-krug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabella Rivelli-Rojas</title>
+      <link>/authors/isabella-rivelli-rojas/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/isabella-rivelli-rojas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jake Linardon</title>
+      <link>/authors/jake-linardon/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jake-linardon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kimberley Baxter</title>
+      <link>/authors/kimberley-baxter/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/kimberley-baxter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew Fuller-Tyszkiewicz</title>
+      <link>/authors/matthew-fuller-tyszkiewicz/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/matthew-fuller-tyszkiewicz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naomi Holt</title>
+      <link>/authors/naomi-holt/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/naomi-holt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shelley Hemmings</title>
+      <link>/authors/shelley-hemmings/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shelley-hemmings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weixi Tan</title>
+      <link>/authors/weixi-tan/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/weixi-tan/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -163,15 +262,6 @@
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/authors/lilani-arulkadacham/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matthew Fuller-Tyszkiewicz</title>
-      <link>/authors/matthew-fuller-tyszkiewicz/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/matthew-fuller-tyszkiewicz/</guid>
       <description></description>
     </item>
     

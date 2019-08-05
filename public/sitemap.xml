@@ -19,24 +19,129 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-06-11T13:00:00+00:00</lastmod>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-06-11T13:00:00+00:00</lastmod>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-06-11T13:00:00+00:00</lastmod>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-06-11T13:00:00+00:00</lastmod>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/bianca-klettke/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/howard_etal_2019/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dominika-howard/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/erin-hughes/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/isabel-krug/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/isabella-rivelli-rojas/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jake-linardon/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kimberley-baxter/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/matthew-fuller-tyszkiewicz/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/naomi-holt/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shelley-hemmings/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/tan_etal_2019/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/weixi-tan/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/misinformation/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,12 +153,6 @@
   <url>
     <loc>/post/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-06-11T13:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -79,12 +178,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/barbara-mullan/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -102,24 +195,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/vaccination/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/misinformation/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -229,6 +305,11 @@
   </url>
   
   <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/ben-richardson/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -247,12 +328,6 @@
   
   <url>
     <loc>/authors/lilani-arulkadacham/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/matthew-fuller-tyszkiewicz/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
